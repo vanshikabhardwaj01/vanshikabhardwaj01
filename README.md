@@ -1,6 +1,7 @@
 <div align="center">
   <h2>Vanshika Bhardwaj</h2>
   <p>Software Engineer | Full Stack Developer</p>
+  <p><strong><a href="https://vanshikabhardwaj01.github.io/My-Personal-Portfolio/">🌐 View My Live Portfolio Website</a></strong></p>
 </div>
 
 <br/>
