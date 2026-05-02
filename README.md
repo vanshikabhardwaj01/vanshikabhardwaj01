@@ -55,13 +55,13 @@ A demonstration of senior-level Database Engineering. Uses raw SQL to solve comp
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshikabhardwaj01&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6" alt="Vanshika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshikabhardwaj01&show_icons=true&theme=radical" alt="Vanshika's GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vanshika-bhardwaj/">
+  <a href="https://www.linkedin.com/in/vanshika-bhardwaj-1bb4b7333">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
