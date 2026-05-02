@@ -5,7 +5,7 @@
 
 <br/>
 
-I am a Software Engineer focused on building complete full-stack applications, scalable backend architectures, and implementing complex algorithms. I enjoy taking ideas from end-to-end and writing clean, maintainable code.
+I am a 4th-year B.Tech CSE student actively seeking new opportunities. As an enthusiastic web developer and software engineer, I am focused on building complete full-stack applications, scalable backend architectures, and implementing complex algorithms. I enjoy taking ideas from end-to-end and writing clean, maintainable code.
 
 ---
 
@@ -48,7 +48,7 @@ A demonstration of senior-level Database Engineering. Uses raw SQL to solve comp
 
 * **[Sudoku Solver](https://github.com/vanshikabhardwaj01/Sudoku-Solver):** An interactive UI implementing a recursive backtracking algorithm to solve 9x9 Sudoku puzzles instantly.
 * **[Tic-Tac-Toe Game](https://github.com/vanshikabhardwaj01/Tic-Tac-Toe-Game):** A creative web-based game featuring extensive DOM manipulation, winning-line highlights, and engaging animations.
-* **[Inhouse Project](https://github.com/vanshikabhardwaj01/inhouseproject):** Internal data analytics and processing workflows implemented via Jupyter Notebooks.
+* **[Inhouse Project - Alzheimer's Detection](https://github.com/vanshikabhardwaj01/inhouseproject):** A research-based project focusing on Alzheimer's disease detection utilizing Convolutional Neural Networks (CNN) models and EEG signals.
 
 ---
 
