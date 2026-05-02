@@ -1,32 +1,40 @@
 <div align="center">
   <h2>Hi, I'm Vanshika Bhardwaj 👋</h2>
-  <p>Software Engineer | Backend & Data Structures | Tech Enthusiast</p>
+  <p>Software Engineer | Full Stack Developer | Tech Enthusiast</p>
 </div>
 
 <br/>
 
-I am a Software Engineer focused on building scalable backend architectures, writing optimized SQL, and implementing complex data structures. I enjoy translating business requirements into clean, maintainable code.
+I am a Software Engineer focused on building complete full-stack applications, scalable backend architectures, and implementing complex algorithms. I enjoy taking ideas from end-to-end and writing clean, maintainable code.
 
 ---
 
 ### 💻 Technical Skills
 
-* **Languages:** JavaScript (Node.js), Python, SQL, HTML/CSS
-* **Backend:** Express.js, RESTful APIs, SQLite
-* **Concepts:** Advanced Data Structures (Graphs, Tries), Concurrency Control, Window Functions, System Design
+* **Languages:** JavaScript (Node.js/React), Python, SQL, HTML/CSS
+* **Backend & AI:** Express.js, RESTful APIs, SQLite, Machine Learning
+* **Concepts:** Full-Stack Development, Advanced Data Structures (Graphs, Tries), System Design, Concurrency Control
 * **Tools:** Git, GitHub, VS Code, Postman
 
 ---
 
-### 🚀 Featured Projects
+### 🔥 Top Full-Stack Projects
 
-Here are a few projects I'm particularly proud of. I focus heavily on algorithmic efficiency and database integrity.
+#### [WearVision](https://github.com/vanshikabhardwaj01/WearVision)
+A comprehensive full-stack application. Engineered the end-to-end architecture handling both the frontend user interface and complex backend logic to deliver a seamless user experience.
 
-#### [FastSearch Engine (Trie)](https://github.com/vanshikabhardwaj01/FastSearch-Trie)
-An interactive auto-complete search engine built from scratch. Implements a custom **Trie (Prefix Tree)** data structure to achieve `O(L)` string matching latency, proving optimization capabilities over standard array-filtering methods.
+#### [FitAI - Calorie Prediction](https://github.com/vanshikabhardwaj01/fitai-calorie-burnt-prediction)
+A complete Python-based machine learning full-stack application that leverages user metrics and predictive modeling to accurately estimate daily calorie expenditure.
+
+---
+
+### ⚙️ Backend & Data Structures Projects
 
 #### [High-Concurrency E-Commerce API](https://github.com/vanshikabhardwaj01/Ecommerce-SQL-API)
 A backend API built with Node.js and Raw SQL (No ORMs). Engineered specifically to handle race conditions during checkout using `BEGIN IMMEDIATE TRANSACTION` and database locking to prevent inventory overselling.
+
+#### [FastSearch Engine (Trie)](https://github.com/vanshikabhardwaj01/FastSearch-Trie)
+An interactive auto-complete search engine built from scratch. Implements a custom **Trie (Prefix Tree)** data structure to achieve `O(L)` string matching latency, proving optimization capabilities over standard array-filtering methods.
 
 #### [Algorithmic Pathfinding Visualizer](https://github.com/vanshikabhardwaj01/Pathfinding-Visualizer)
 A visual tool demonstrating Graph algorithms. Built entirely with Vanilla JavaScript and DOM manipulation. Features interactive grids where users can draw walls and visualize Dijkstra's Algorithm and BFS finding the shortest paths.
@@ -34,8 +42,13 @@ A visual tool demonstrating Graph algorithms. Built entirely with Vanilla JavaSc
 #### [Corporate Analytics Data Engine](https://github.com/vanshikabhardwaj01/CorpAnalytics-SQL)
 A demonstration of senior-level Database Engineering. Uses raw SQL to solve complex business intelligence problems including `DENSE_RANK()` Window Functions, Common Table Expressions (CTEs), and Hierarchical Self-Joins.
 
-#### [FitAI - Calorie Prediction](https://github.com/vanshikabhardwaj01/fitai-calorie-burnt-prediction)
-A Python-based machine learning application that predicts calorie expenditure using user metrics.
+---
+
+### 🎮 Interactive UI & Miscellaneous Projects
+
+* **[Sudoku Solver](https://github.com/vanshikabhardwaj01/Sudoku-Solver):** An interactive UI implementing a recursive backtracking algorithm to solve 9x9 Sudoku puzzles instantly.
+* **[Tic-Tac-Toe Game](https://github.com/vanshikabhardwaj01/Tic-Tac-Toe-Game):** A creative web-based game featuring extensive DOM manipulation, winning-line highlights, and engaging animations.
+* **[Inhouse Project](https://github.com/vanshikabhardwaj01/inhouseproject):** Internal data analytics and processing workflows implemented via Jupyter Notebooks.
 
 ---
 
