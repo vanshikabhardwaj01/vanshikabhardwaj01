@@ -34,10 +34,10 @@ A complete Python-based machine learning full-stack application that leverages u
 #### [High-Concurrency E-Commerce API](https://github.com/vanshikabhardwaj01/Ecommerce-SQL-API)
 A backend API built with Node.js and Raw SQL (No ORMs). Engineered specifically to handle race conditions during checkout using `BEGIN IMMEDIATE TRANSACTION` and database locking to prevent inventory overselling.
 
-#### [FastSearch Engine (Trie)](https://github.com/vanshikabhardwaj01/FastSearch-Trie)
+#### [FastSearch Engine (Trie)](https://github.com/vanshikabhardwaj01/FastSearch-Trie) | **[Live Demo](https://vanshikabhardwaj01.github.io/FastSearch-Trie/)**
 An interactive auto-complete search engine built from scratch. Implements a custom **Trie (Prefix Tree)** data structure to achieve `O(L)` string matching latency, proving optimization capabilities over standard array-filtering methods.
 
-#### [Algorithmic Pathfinding Visualizer](https://github.com/vanshikabhardwaj01/Pathfinding-Visualizer)
+#### [Algorithmic Pathfinding Visualizer](https://github.com/vanshikabhardwaj01/Pathfinding-Visualizer) | **[Live Demo](https://vanshikabhardwaj01.github.io/Pathfinding-Visualizer/)**
 A visual tool demonstrating Graph algorithms. Built entirely with Vanilla JavaScript and DOM manipulation. Features interactive grids where users can draw walls and visualize Dijkstra's Algorithm and BFS finding the shortest paths.
 
 #### [Corporate Analytics Data Engine](https://github.com/vanshikabhardwaj01/CorpAnalytics-SQL)
