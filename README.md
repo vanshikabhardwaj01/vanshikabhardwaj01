@@ -21,7 +21,8 @@ I am a 4th-year B.Tech CSE student actively seeking new opportunities. As an ent
 
 ### Top Full-Stack Projects
 
-#### [WearVision](https://github.com/vanshikabhardwaj01/WearVision)
+#### [WearVision](https://github.com/vanshikabhardwaj01/WearVision) 
+LiveDemo-https://youtu.be/zTVK5-OOd28?si=sXCxXhSsUvql9us7
 A comprehensive full-stack application. Engineered the end-to-end architecture handling both the frontend user interface and complex backend logic to deliver a seamless user experience.
 
 #### [FitAI - Calorie Prediction](https://github.com/vanshikabhardwaj01/fitai-calorie-burnt-prediction)
