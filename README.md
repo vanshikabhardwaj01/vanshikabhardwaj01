@@ -12,11 +12,10 @@ I am a 4th-year B.Tech CSE student actively seeking new opportunities. As an ent
 
 ### Technical Skills
 
-* **Languages:** JavaScript (Node.js/React), Python, SQL, HTML/CSS
-* **Backend & AI:** Express.js, RESTful APIs, SQLite, Machine Learning
-* **Concepts:** Full-Stack Development, Advanced Data Structures (Graphs, Tries), System Design, Concurrency Control
-* **Tools:** Git, GitHub, VS Code, Postman
-
+* **Languages:** CPP, Java,C,JavaScript (Node.js/React), Python, SQL, HTML/CSS
+* **Technologies:** Machine Learning, PowerBI,Generative AI, REST APIs, Full-Stack Development
+* **Concepts:** Data Structures and Algorithms, System Design, Operating System, Computer Networks, OOP
+* **Tools:** Git, GitHub, VS Code, Mongodb, Linux, MicrosoftExcel
 ---
 
 ### Top Full-Stack Projects
